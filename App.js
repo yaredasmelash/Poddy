@@ -34,3 +34,5 @@ export default function App() {
     </NavigationContainer>
   );
 }
+>npm install react-native-vector-icons ; npx react-native link react-native-vector-icons ; cd android ; ./gradlew clean ; cd .. ; npx react-native run-android ; npx react-native run-ios
+>cd Ionicons; npm install; cd .. ; npx react-native run-android ; npx react-native run-ios
